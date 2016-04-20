@@ -1,4 +1,4 @@
-body { background-color: #fff; color: #333; }
+body { background-color: orange; color: green; }
 
 body, p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
@@ -7,14 +7,14 @@ body, p, ol, ul, td {
 }
 
 pre {
-  background-color: #eee;
+  background-color: red;
   padding: 10px;
   font-size: 11px;
 }
 
-a { color: #000; }
-a:visited { color: #666; }
-a:hover { color: #fff; background-color:#000; }
+a { color: purple; }
+a:visited { color: orange; }
+a:hover { color: gray; background-color:orange; }
 
 div.field, div.actions {
   margin-bottom: 10px;
@@ -36,7 +36,7 @@ div.field, div.actions {
   padding: 7px;
   padding-bottom: 0;
   margin-bottom: 20px;
-  background-color: #f0f0f0;
+  background-color: orange;
 }
 
 #error_explanation h2 {
@@ -46,8 +46,8 @@ div.field, div.actions {
   font-size: 12px;
   margin: -7px;
   margin-bottom: 0px;
-  background-color: #c00;
-  color: #fff;
+  background-color: green;
+  color: blue;
 }
 
 #error_explanation ul li {
